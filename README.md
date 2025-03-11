@@ -1,2 +1,2 @@
 # css-project
-css projects for Practice
+CSS projects for Practice.
